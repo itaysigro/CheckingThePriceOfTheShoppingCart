@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dE2LO+kJJ8fJfsYekPDCrR73oW9kw51g7P6CVMfrDZkY3dquP3c0RtHMPIG+kRVFIJ3iQpEZyAjFLZF5ia/nKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itays\\source\\repos\\CheckingThePriceOfTheShoppingCart\\CheckingThePriceOfTheShoppingCart\\CheckingThePriceOfTheShoppingCart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itays\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.8000\\selenium.webdriver.chromedriver.98.0.4758.8000.nupkg.sha512"
+  ],
+  "logs": []
+}
